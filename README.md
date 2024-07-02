@@ -1,5 +1,5 @@
 ### Hello there! I'm Lucas 👋
-  I'm from Brazil, and I'm currently at the high school. Since I was a kid I enjoyed technology, such as videogames and cellphones, so in 2023 I decided to dive in this deep ocean of technology. Since then, I am trying to discover more about this technology area and improve my skills.
+  I'm from Brazil, and I'm currently at the high-school. Since I was a kid, I enjoyed technology, such as video games and cellphones, so in 2023 I decided to dive into this deep ocean of technology. Since then, I have been trying to discover more about this technology area and improve my skills.
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassvarjao&show_icons=true&theme=radical)
 ---
