@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello there! I'm Lucas 👋
+  I'm from Brazil and I'm currently at the high school. Since I was a kid I enjoyed technology, such as videogames and cellphones, so in 2023 I decided to dive in this deep ocean of technology. Since them I am trying to discover more about this technology area and improve my skills.
 
-<!--
-**lucassvarjao/lucassvarjao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassvarjao&show_icons=true&theme=radical)
+---
+### Technologies that I am studying:
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</div>
 
-Here are some ideas to get you started:
+---
+### How you can contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvarj%C3%A3o/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvarjao32@gmail.com)
