@@ -16,6 +16,6 @@ I'm from Brazil, and I'm currently in high-school. Since I was a kid, I have enj
 
 ## Let's connect on Linkedin!
 
- [![My profile on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvarj%C3%A3o/)
+ [![My profile on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares-varj%C3%A3o-31a310313/)
 
           
