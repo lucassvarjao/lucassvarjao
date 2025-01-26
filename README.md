@@ -1,7 +1,7 @@
 
-# Hello there! I am Lucas 👋
+# Hello there! My name's Lucas👋
 
-I'm from Brazil, and I'm currently in high-school. Since I was a kid, I have enjoyed technology, such as video games and cellphones, so in 2023, I decided to dive into this deep ocean of technology. Since then, I have been trying to discover more about this area and improve my skills.
+I am from Brazil, and I am a high school student pursuing an integrated technical program in systems development. Through this program, I have taken my first steps into the world of technology. Currently, my main goal is to get into a university to learn more about this field. This profile was created to practice and exhibit what I've been studying. I hope you enjoy it!
 
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
