@@ -14,7 +14,7 @@ I am from Brazil, and I am a high school student pursuing an integrated technica
     <img align="center" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> 
 </div>
 
-## Let's connect on Linkedin👇
+## Let's connect on Linkedin!
 
  [![My profile on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares-varj%C3%A3o-31a310313/)
 
